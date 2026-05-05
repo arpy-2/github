@@ -11,3 +11,6 @@
 
 > [!WARNING]
 > Aquí dejo una alerta
+
+> [!CAUTION]
+> Aquí dejo una alerta
