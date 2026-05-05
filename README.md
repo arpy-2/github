@@ -14,3 +14,7 @@
 
 > [!CAUTION]
 > Aquí dejo una alerta
+
+<div align="center">
+  <img src="URL_DE_TU_IMAGEN" alt="Logo" width="100" />
+</div>
