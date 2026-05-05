@@ -41,3 +41,24 @@ Cogemos la url del repositorio, por ejemplo "https://github.com/arpy-2/github/ed
   <source media="(prefers-color-scheme: dark)" srcset="url-imagen-oscuro">
   <img src="url-imagen-claro" alt="Logo">
 </picture>
+
+---
+
+# Parte 2 | Guía básica para principales:
+
+## 1. ¿Para que sirven las licencias?
+
+> [!NOTE]
+> Que sea simple y se use en todos lados ➜ MIT
+> Protección contra patentes y uso comercial ➜ Apache 2.0
+> Que nadie pueda cerrar tu código (Copyleft) ➜ GNU GPLv3
+> Renunciar a todos tus derechos (Dominio público) ➜ Unlicense / CC0
+
+> [!TIP]
+> Si estás empezando un proyecto personal o una librería pequeña, la MIT es la opción 
+> estándar y más segura para fomentar la colaboración.
+
+---
+
+## 2. Licencias 
+[License]()
