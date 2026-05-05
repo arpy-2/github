@@ -58,7 +58,5 @@ Cogemos la url del repositorio, por ejemplo "https://github.com/arpy-2/github/ed
 > Si estás empezando un proyecto personal o una librería pequeña, la MIT es la opción 
 > estándar y más segura para fomentar la colaboración.
 
----
-
 ## 2. Licencias 
 [License]()
