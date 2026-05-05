@@ -1,5 +1,7 @@
 # Trucos Github
 
+## Badges
+
 [![build](https://github.com/arpy-2/github/actions/workflows/blank.yml/badge.svg)](https://github.com/arpy-2/github/actions/workflows/blank.yml)
 
 ---
