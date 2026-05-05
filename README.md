@@ -2,7 +2,11 @@
 ## Repositorios
 Cogemos la url del repositorio, por ejemplo "https://github.com/arpy-2/github/edit/main/README.md" y cambiamos "...//github.com/..." por "...//deepwiki.com/..." (solo esa parte dejando todo lo demás igual en la url). Después de eso tendremos una documentacion completa generada por ia de ese repositorio.
 
+<br>
+
 ---
+
+<br>
 
 ## Readme.md de un repositorio
 > [!NOTE]
