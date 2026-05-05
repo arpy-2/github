@@ -5,3 +5,9 @@
 
 > [!TIP]
 > Aquí dejo un tip
+
+> [!IMPORTANT]
+> Aquí dejo algo importante
+
+> [!WARNING]
+> Aquí dejo una alerta
