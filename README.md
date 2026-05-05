@@ -59,4 +59,4 @@ Cogemos la url del repositorio, por ejemplo "https://github.com/arpy-2/github/ed
 > estándar y más segura para fomentar la colaboración.
 
 ## 2. Licencias 
-[License]()
+[License](https://github.com/arpy-2/github?tab=MIT-1-ov-file)
